@@ -1,5 +1,5 @@
 # Cyber-Security-and-Forensics
-The course introduces the basics of filesystems, operating systems, and usage in the area of digital forensics. We will learn essential cybersecurity principles and incident response techniques. Moreover, the attendees will try out various attacks, their detection, and how to create countermeasures.
+The course introduces the basics of filesystems, operating systems, and usage in the area of digital forensics. We will learn essential cybersecurity principles and incident response techniques. Moreover, we will try out various attacks, their detection, and how to create countermeasures.
 <br>
 
 ## Key Outcomes
