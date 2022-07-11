@@ -9,3 +9,8 @@ The course introduces the basics of filesystems, operating systems, and usage in
 - Learning the essentials of cryptography, password protection, and cracking
 - Getting hands-on experience to develop skills via open-source security tools
 - Try out real cyber attacks in a lab environment and learn how to protect your system against such attacks
+<br>
+
+## Network Forensics
+This field contains an extensive collection of topics related to network communication. For instance, identifying various types of DDoS attacks from capture files requires extracting attack statistics, a list of attacking bots, determining the type of attack (TCP SYN flood, UDP/ICMP flood, HTTP GET/POST flood, HTTP flood with browser emulation, etc.). 
+The research topics include the usage of machine learning and other methods for automatic analysis of data, content identification and extraction, communication capturing and evidence extraction, etc.
