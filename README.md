@@ -11,6 +11,32 @@ The course introduces the basics of filesystems, operating systems, and usage in
 - Try out real cyber attacks in a lab environment and learn how to protect your system against such attacks
 <br>
 
-## Network Forensics
+## Classes
+### Cloud Security (Google Cloud Platform)
+<br>
+
+### Malware Analysis
+<br>
+
+### Encrypted Traffic
+<br>
+
+### Password Recovery
+<br>
+
+### Deepfakes
+<br>
+
+### Digital Forensics and Incident Response (DFIR)
+<br>
+
+### Web Browser Forensics Analysis
+<br>
+
+### Google Workspace and M365 Forensics
+<br>
+
+## Team Project
+### Network Forensics
 This field contains an extensive collection of topics related to network communication. For instance, identifying various types of DDoS attacks from capture files requires extracting attack statistics, a list of attacking bots, determining the type of attack (TCP SYN flood, UDP/ICMP flood, HTTP GET/POST flood, HTTP flood with browser emulation, etc.). 
 The research topics include the usage of machine learning and other methods for automatic analysis of data, content identification and extraction, communication capturing and evidence extraction, etc.
